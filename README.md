@@ -20,3 +20,5 @@ Tool Integration: Works well with IDEs and CI/CD pipelines, automating tests and
 Conflict Resolution: Helps identify and resolve conflicts when merging changes.
 
 Documentation: Tracks the project’s evolution, creating accountability and historical insight.
+
+Thank you :)
